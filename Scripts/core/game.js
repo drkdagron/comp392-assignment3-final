@@ -1,3 +1,12 @@
+/////
+//FileName: game.ts
+//last updated: april 1st, 2016 (har)
+//person updated: stephen mckillop
+//comments on class: main class which controls the game and 
+//  other things relating to the game and stuff relating to
+//  more things which relate to the running of relating to
+//  related things
+/////
 /// <reference path="_reference.ts"/>
 // MAIN GAME FILE
 // THREEJS Aliases
